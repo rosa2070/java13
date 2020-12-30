@@ -36,7 +36,7 @@ public class Student {
 
 	public static int getSerialNum() {
 		int i = 0;
-//		studentName = "Lee";
+		studentName = "Lee";
 		
 		return serialNum;
 	}
