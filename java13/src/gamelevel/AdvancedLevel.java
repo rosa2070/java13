@@ -10,7 +10,7 @@ public class AdvancedLevel extends PlayerLevel {
 
 	@Override
 	public void jump() {
-		System.out.println("jump 못하지롱");
+		System.out.println("높이 jump 합니다.");
 
 	}
 
@@ -22,7 +22,7 @@ public class AdvancedLevel extends PlayerLevel {
 
 	@Override
 	public void showLevelMessage() {
-		System.out.println("****** 초급자 레벨입니다.");
+		System.out.println("****** 중급자 레벨입니다. ******");
 
 	}
 	
