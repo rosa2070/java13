@@ -10,7 +10,7 @@ public class SuperLevel extends PlayerLevel{
 
 	@Override
 	public void jump() {
-		System.out.println("아주 높이 jump 못하지롱");
+		System.out.println("아주 높이 jump 합니다.");
 
 	}
 
